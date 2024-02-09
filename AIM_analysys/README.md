@@ -5,7 +5,7 @@ It is required to know the genotypes of analyzed samples, to focus the analysis 
 2- Contrast of hypothesis of biallelic expression per gene and per cell.
 IMPORTANT: In this analysis we assume that we are working with heterozygotes for which we know their genotypes and since the AIM evaluation is at the single cell level, we must be sure that each bam contains single cell information.
 ## Count reads for each allele.
-The reads of each allele are counted using the AIM.read.finder.py script. This script takes as input the directory containing the aligned scRNAseq reads (bam files) for each cell and a VCF file containing the SNPs in heterozygosity that will be considered. The basic command-line for  is:
+The reads of each allele are counted using the AIM.read.finder.py script. This script takes as input the directory containing the aligned scRNAseq reads (bam files) for each cell and a VCF file containing the SNPs in heterozygosity that will be considered. The basic command-line for this script is:
 ```console
 $ python AIM.read.finder.py --vcf your_input.vcf --input /your_directory_containing_bam_files/
 ```
