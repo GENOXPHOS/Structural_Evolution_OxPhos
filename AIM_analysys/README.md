@@ -31,3 +31,10 @@ $$
 P(X \leq k | H_0)=
  \sum_{k=1}^n \binom{n}{k} · 0.5 ^ {k} · (1 − 0.5 ) ^ {n − k} 
 $$
+
+This analysis is performed by the R script Rscript_4_AIM.R. This Script annotates reads with corresponding mapped genes, perform the AIM analysis per cell and per gene (correcting false discovery rate by Benjamini-Hochberg method, usin a threshold of p<0.05) and create a folder called AIM_output, that contains heatmap representation of AIM analysis and corresponding tsv file with per gene and per cell assessment. In addition, this scrip will evaluate gene-wise trend in all analyzed cells if at least the 75% of cells have a result, terting 3 possible null hypothesis:
+1. $H_0$: The count of cells with C57 AIM is equivalent to the count of cells without C57 AIM.
+2. $H_0$: The count of cells with Cast AIM is equivalent to the count of cells without Cast AIM.
+3. $H_0$: The count of biallelic cells is equivalent to the count of cells without biallelic cells.
+
+In each scenario, when considering the null hypothesis (H0), we assume that the proportion of cells in the analyzed category is equal to p=0.5. However, if the observed proportion significantly exceeds 0.5, with a significance level of 0.05 (p ≤ 0.05), we can infer an alternative hypothesis indicating enrichment within that specific category in our dataset. This script will also output tsv file with gene.wise trend results.
