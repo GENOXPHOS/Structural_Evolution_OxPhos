@@ -37,4 +37,31 @@ This analysis is performed by the R script Rscript_4_AIM.R. This Script annotate
 2. $H_0$: The count of cells with Cast AIM is equivalent to the count of cells without Cast AIM.
 3. $H_0$: The count of biallelic cells is equivalent to the count of cells without biallelic cells.
 
-In each scenario, when considering the null hypothesis (H0), we assume that the proportion of cells in the analyzed category is equal to p=0.5. However, if the observed proportion significantly exceeds 0.5, with a significance level of 0.05 (p ≤ 0.05), we can infer an alternative hypothesis indicating enrichment within that specific category in our dataset. This script will also output tsv file with gene.wise trend results.
+In each scenario, when considering the null hypothesis (H0), we assume that the proportion of cells in the analyzed category is equal to p=0.5. However, if the observed proportion significantly exceeds 0.5, with a significance level of 0.05 (p ≤ 0.05), we can infer an alternative hypothesis indicating enrichment within that specific category in our dataset. This script will also output tsv file with gene.wise trend results. This script will run in command line as Rscript. The basical inputs for this program are a bed file with the same exact format as our example.bed, for the genes of interest; the path to the directory containing the output txt files from AIM.read.finder.py and string describing your experiment. All options of Rscript_4_AIM.Rcan can be consulted by running:
+```console
+$ Rscript Rscript_4_AIM.R --help
+Usage: Rscript_4_AIM.R [options]
+
+
+Options:
+	-i INPUT, --input=INPUT
+		File containing reads with allelic imbalance measurements and their adjusted probabilities
+
+	-c EXP_COND, --exp_cond=EXP_COND
+		File containing samples distribution by condition/s to organnize the heatmap
+
+	-b BED, --bed=BED
+		Bed file containing analyzed genes coordinates and gene names for annotation
+
+	-n EXP_NAME, --exp_name=EXP_NAME
+		Character string defining the conditions or description of the experiment
+
+	-A ALLELE_A, --Allele_A=ALLELE_A
+		Name of allele A
+
+	-B ALLELE_B, --Allele_B=ALLELE_B
+		Name of allele B
+
+	-h, --help
+		Show this help message and exit
+```
