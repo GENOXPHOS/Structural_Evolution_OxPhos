@@ -24,7 +24,7 @@ options:
 ```
 ## Contrast of hypothesis of biallelic expression per gene and per cell.
 
-This ad hoc method is based on the null hypothesis $H_0$ that genes are biallelic. Then under $H_0$:
+This ad hoc method is based on the null hypothesis $H_0$ that genes are biallelic. Then under $H_0$, the probability of expression of each allele is p=0.5. The alternative hypothesis posits that the alleles exhibit unequal probabilities of expression. Specifically, when the gene is monoallelic, resulting in one of the alleles having a significantly higher expression probability than 0.5:
 
 $$
 \displaystyle
