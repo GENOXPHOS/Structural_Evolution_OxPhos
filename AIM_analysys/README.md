@@ -67,7 +67,7 @@ Options:
 ```
 ## Installation
 
-The pipeline runs in R 4.1.2 and python 3.6.
+The pipeline runs in R 4.1.2 and python 3.10.2.
 
 Install R with the following packages:
 
