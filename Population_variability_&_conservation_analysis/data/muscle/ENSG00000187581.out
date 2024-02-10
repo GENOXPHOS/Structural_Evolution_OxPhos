@@ -1,0 +1,60 @@
+>NP_892016.1 cytochrome c oxidase subunit 8C, mitochondrial [Homo sapiens]
+------------------------------------------MPLLRGRC---PARRHYR
+RL-------------ALLGLQP--------------------------------------
+---------------------------------AP-------------------------
+-------------------RFAH----SGPP-RQRPLSAAEMAVGLVVFFTTFLTPAAYV
+LGNLKQFRRN
+>XP_009426646.2 cytochrome c oxidase subunit 8C, mitochondrial [Pan troglodytes]
+------------------------------------------MPLLRGRC---PARRHYR
+RL-------------ALLGLQP--------------------------------------
+---------------------------------AP-------------------------
+-------------------RFAH----SGPP-RQRPLSAAEMAVGLVVFFTTFLTPAAYV
+LGNLKQFRRN
+>NP_001034138.1 cytochrome c oxidase subunit 8C, mitochondrial [Mus musculus]
+------------------------------------------MSRLLLLCSSLLRHR---
+---------------AVLFSKP--------------------------------------
+---------------------------------GHPG-----------------------
+-------------------RLSH----SESP-QKKILSPTESAVGIVVFFTTFYIPAAYV
+LSSLKYFKGE
+>NP_898878.1 cytochrome c oxidase subunit 8C, mitochondrial [Rattus norvegicus]
+------------------------------------------MSRLLQFCSSLLRHR---
+---------------VVLFSKP--------------------------------------
+---------------------------------GHSG-----------------------
+-------------------RLSH----SESP-QNQVLTPTESVVGIVVFFATFFIPAAYV
+MSNLKFFKGE
+>XP_059735213.1 uncharacterized protein LOC100300759 [Bos taurus]
+-------------MVLREERRWTEAAEHAQTILLPCCEAREVRPRVASLHLTSPHRASRL
+RLASPHRTNHAAHARALLVSPPPCDPAAPDAWPAHGPLGTSAPPPGVDRRELGPILPGGE
+GGTRRAEARGLGGSAPTGGGEEDAAAIWVGGLGGPEGSEAAGELRRRRGEGAGVGLEAPG
+SGDLEEREGLREPDLRCRYRFGREVRGAEPSLHLRTSLTLEVAIALVVFFTAFLTPRGYV
+LSNLDQFRRE
+>>tr|A0A5F9CJ03|A0A5F9CJ03_RABIT Cytochrome c oxidase subunit 8 OS=Oryctolagus cuniculus OX=9986 GN=COX8C PE=3 SV=1
+------------------------------------------MPRLLVLCP--LLRR--R
+RCLT-----------AFLSLHR--------------------------------------
+---------------------------------GR-------------------------
+-------------------RLHS----SEPS-HGGPASPVEMAVGVVVIFTAFLAPSAYV
+LSHLSQFRRG
+>tr|G3RVL3|G3RVL3_GORGO Cytochrome c oxidase subunit 8 OS=Gorilla gorilla gorilla OX=9595 GN=COX8C PE=3 SV=1
+------------------------------------------MPLLRGRC---PGRRHCR
+RL-------------ALLGLQP--------------------------------------
+---------------------------------AP-------------------------
+-------------------RFAH----SEPP-RQRPLSAAEMAVGLVVFFTTFLTPAAYV
+LGNLKQFRRN
+>XP_023484078.1 cytochrome c oxidase subunit 8C, mitochondrial [Equus caballus]
+------------------------------------------MSRLPVLCLLLLLRR--R
+RV-------------IPLGLQL--------------------------------------
+---------------------------------GR-------------------------
+-------------------RLGH----SEPRGRQEPASPVEMGVGLVVFFTAFLTPCGYV
+LSSLKQFRRQ
+>XP_001927446.1 cytochrome c oxidase subunit 8C, mitochondrial [Sus scrofa]
+------------------------------------------MPRLPVVC---LLPR--R
+RV-------------TLLVLQP--------------------------------------
+---------------------------------GQ-------------------------
+-------------------RLAH----SEPP-RQRPVSTLEVAIALVVFFTAFLTPSGYV
+LSNLNQFRRE
+>XP_042090916.1 cytochrome c oxidase subunit 8C, mitochondrial [Ovis aries]
+MRRRYSCRVVRLARSDLASPRFTSRLLTALRVYAWLRRTGRIMPRMPLLC---VFPR--R
+RV-------------TLLLLLP--------------------------------------
+---------------------------------GL-------------------------
+-------------------RMAH----SEPP-RQRPVSTIEVAIALVVFFTAFLTPRGYV
+LSNLDQFRRE
