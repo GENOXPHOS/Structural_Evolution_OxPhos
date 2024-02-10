@@ -65,3 +65,21 @@ Options:
 	-h, --help
 		Show this help message and exit
 ```
+## Installation
+
+The pipeline runs in R 4.1.2 and python 3.6.
+
+Install R with the following packages:
+
+    ComplexHeatmap
+    dplyr
+    ggplot2
+    circlize
+    optparse
+
+Install Python 3.10.12 with the following packages:
+
+    pandas
+    argparse
+    pysam
+    
