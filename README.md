@@ -90,6 +90,20 @@ jaenriquez@cnic.es or jlcabreraa@cnic.es
 
 - Ben-Shachar et al., (2020). effectsize: Estimation of Effect Size Indices and Standardized Parameters. Journal of Open Source Software, 5(56), 2815, https://doi.org/10.21105/joss.02815.
 
-- Heger A, Pysam developers. pysam: a Python module for reading and manipulating SAM/BAM/VCF/BCF files. Available at: https://pysam.readthedocs.io
+- Python Software Foundation. (2023). os — Miscellaneous operating system interfaces. En Python Documentation. Recuperado de https://docs.python.org/3/library/os.html
+
+- Python Software Foundation. (2023). argparse — Parser for command-line options, arguments and sub-commands. En Python Documentation. Recuperado de https://docs.python.org/3/library/argparse.html
+
+- Heger A, Pysam developers. pysam: a Python module for reading and manipulating SAM/BAM/VCF/BCF files. Available at: https://pysam.readthedocs.io.
+
+- McKinney, W. (2010). Data Structures for Statistical Computing in Python. Proceedings of the 9th Python in Science Conference, 51-56.
+
+- Gu Z, Eils R, Schlesner M. Complex heatmaps reveal patterns and correlations in multidimensional genomic data. Bioinformatics. 2016 Sep 15;32(18):2847-9. doi: 10.1093/bioinformatics/btw313. Epub 2016 May 20. PMID: 27207943.
+
+- Gu Z, Gu L, Eils R, Schlesner M, Brors B. circlize Implements and enhances circular visualization in R. Bioinformatics. 2014 Oct;30(19):2811-2. doi: 10.1093/bioinformatics/btu393. Epub 2014 Jun 14. PMID: 24930139.
+
+- Davis T (2024). optparse: Command Line Option Parser. R package version 1.7.5, <https://CRAN.R-project.org/package=optparse>.
+
+- Barrett T, Dowle M, Srinivasan A, Gorecki J, Chirico M, Hocking T, Schwendinger B (2024). data.table: Extension of `data.frame`. R package version 1.16.2, <https://CRAN.R-project.org/package=data.table>.
 
 
