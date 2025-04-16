@@ -63,3 +63,11 @@ Not available
 
 ## Contact: 
 jaenriquez@cnic.es or jlcabreraa@cnic.es 
+
+## References:
+
+- Knaus BJ, Grünwald NJ. vcfr: a package to manipulate and visualize variant call format data in R. Mol Ecol Resour. 2017 Jan;17(1):44-53. doi: 10.1111/1755-0998.12549. Epub 2016 Jul 12. PMID: 27401132.
+
+- Wickham H (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York. ISBN 978-3-319-24277-4, https://ggplot2.tidyverse.org.
+
+- 
