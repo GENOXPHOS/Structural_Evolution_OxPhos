@@ -70,10 +70,26 @@ jaenriquez@cnic.es or jlcabreraa@cnic.es
 
 - Wickham H (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York. ISBN 978-3-319-24277-4, https://ggplot2.tidyverse.org.
 
+- Wickham H, François R, Henry L, Müller K, Vaughan D (2023). dplyr: A Grammar of Data Manipulation. R package version 1.1.4, https://github.com/tidyverse/dplyr, https://dplyr.tidyverse.org.
+
+- Charif D, Lobry J (2007). “SeqinR 1.0-2: a contributed package to the R project for statistical computing devoted to biological sequences retrieval and analysis.” In Bastolla U, Porto M, Roman H, Vendruscolo M (eds.), Structural approaches to sequence evolution: Molecules, networks, populations, series Biological and Medical Physics, Biomedical Engineering, 207-232. Springer Verlag, New York. ISBN : 978-3-540-35305-8.
+
+- Pagès H, Aboyoun P, Gentleman R, DebRoy S (2024). Biostrings: Efficient manipulation of biological strings. doi:10.18129/B9.bioc.Biostrings <https://doi.org/10.18129/B9.bioc.Biostrings>, R package version 2.72.1, <https://bioconductor.org/packages/Biostrings>.
+
 - Kassambara A (2023). ggpubr: 'ggplot2' Based Publication Ready Plots. R package version 0.6.0, https://rpkgs.datanovia.com/ggpubr/.
 
 - Ogle DH, Doll JC, Wheeler AP, Dinno A (2025). FSA: Simple Fisheries Stock Assessment Methods. R package version 0.9.6, https://CRAN.R-project.org/package=FSA.
 
-- Grant B, Rodrigues A, ElSawy K, McCammon J, Caves L (2006). “Bio3D: An R package for the comparative analysis of protein structures.” Bioinformatics, 22, 2695–2696.
+- Grant BJ, Rodrigues AP, ElSawy KM, McCammon JA, Caves LS. Bio3d: an R package for the comparative analysis of protein structures. Bioinformatics. 2006 Nov 1;22(21):2695-6. doi: 10.1093/bioinformatics/btl461. Epub 2006 Aug 29. PMID: 16940322.
 
 - R Core Team (2024). R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria. <https://www.R-project.org/>.
+
+- Saito T, Rehmsmeier M. Precrec: fast and accurate precision-recall and ROC curve calculations in R. Bioinformatics. 2017 Jan 1;33(1):145-147. doi: 10.1093/bioinformatics/btw570. Epub 2016 Sep 1. PMID: 27591081; PMCID: PMC5408773.
+
+- Sing T, Sander O, Beerenwinkel N, Lengauer T. ROCR: visualizing classifier performance in R. Bioinformatics. 2005 Oct 15;21(20):3940-1. doi: 10.1093/bioinformatics/bti623. Epub 2005 Aug 11. PMID: 16096348.
+
+- Ben-Shachar et al., (2020). effectsize: Estimation of Effect Size Indices and Standardized Parameters. Journal of Open Source Software, 5(56), 2815, https://doi.org/10.21105/joss.02815.
+
+- Heger A, Pysam developers. pysam: a Python module for reading and manipulating SAM/BAM/VCF/BCF files. Available at: https://pysam.readthedocs.io
+
+
