@@ -70,4 +70,10 @@ jaenriquez@cnic.es or jlcabreraa@cnic.es
 
 - Wickham H (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York. ISBN 978-3-319-24277-4, https://ggplot2.tidyverse.org.
 
-- 
+- Kassambara A (2023). ggpubr: 'ggplot2' Based Publication Ready Plots. R package version 0.6.0, https://rpkgs.datanovia.com/ggpubr/.
+
+- Ogle DH, Doll JC, Wheeler AP, Dinno A (2025). FSA: Simple Fisheries Stock Assessment Methods. R package version 0.9.6, https://CRAN.R-project.org/package=FSA.
+
+- Grant B, Rodrigues A, ElSawy K, McCammon J, Caves L (2006). “Bio3D: An R package for the comparative analysis of protein structures.” Bioinformatics, 22, 2695–2696.
+
+- R Core Team (2024). R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria. <https://www.R-project.org/>.
